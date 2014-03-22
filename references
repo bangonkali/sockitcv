@@ -1,25 +1,8 @@
-http://www.rocketboards.org/foswiki/Documentation/ArrowSoCKitEvaluationBoard
-http://www.altera.com/devices/fpga/cyclone-v-fpgas/hard-processor-system/cyv-soc-hps.html
-http://parts.arrow.com/item/detail/arrow-development-tools/sockit#QGQz
-http://www.logitech.com/en-us/product/hd-webcam-c525
-http://en.wikipedia.org/wiki/System_on_a_chip
-http://en.wikipedia.org/wiki/Central_processing_unit
-http://en.wikipedia.org/wiki/FPGA
-http://en.wikipedia.org/wiki/Direct_memory_access
-http://en.wikipedia.org/wiki/Webcam
-http://en.wikipedia.org/wiki/Reduced_instruction_set_computing
-http://en.wikipedia.org/wiki/Complex_instruction_set_computing
-http://en.wikipedia.org/wiki/Ethernet
-http://en.wikipedia.org/wiki/Development_board
-http://www.mentor.com/products/ip/usb/usb20otg/phy_interfaces
-http://en.wikipedia.org/wiki/PHY
-http://en.wikipedia.org/wiki/Unshielded_twisted_pair#Unshielded_twisted_pair_.28UTP.29
-http://en.wikipedia.org/wiki/Linux_kernel
-http://en.wikipedia.org/wiki/Debian
-http://www.ideasonboard.org/uvc/
-http://www.rocketboards.org/foswiki/Projects/SoCKITGHRD
-
-
-uBoot
-Boot
-Reboot
+changes:
+[x] change develop to integrate 
+[x] page 23 @ - fixed
+[x] Page 20 _
+[x] Page 26 (stress expanded on appendix)
+[x] - show source code on appendix
+[x] conclusion
+[x]- provide comparision of work based on 2 platforms
